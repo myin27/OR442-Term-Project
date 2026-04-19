@@ -1,6 +1,8 @@
 # OR442-Term-Project
 
 For setup instructions, please click [here](#setup--installation).
+To view our Jupyter Notebook, please click [here](/project.ipynb).
+
 
 ## Background
 
@@ -8,7 +10,7 @@ For our final project for stochastic models class, groups of up to four people w
 
 - Fund A: Unif[-40%, 60%]
 - Fund B: Unif[-10%, 24%]
-- Fund C: Normal(7%, (2%)$^2$)
+- Fund C: Normal(7%, (2%) $^2$)
 - Fund D: Unif[5%, 7%]
 
 ## Process
