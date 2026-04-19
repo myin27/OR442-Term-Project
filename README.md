@@ -8,7 +8,7 @@ For our final project for stochastic models class, groups of up to four people w
 
 - Fund A: Unif[-40%, 60%]
 - Fund B: Unif[-10%, 24%]
-- Fund C: Normal(7%, (2%)$^2$)
+- Fund C: Normal(7%, (2%)$$^2$$)
 - Fund D: Unif[5%, 7%]
 
 ## Process
@@ -19,7 +19,9 @@ We decided to use a Jupyter Notebook in order to let us visualize our distributi
 
 Run the following command on your terminal to install dependences.
 
-```pip install numpy matplotlib```
+```sh
+pip install numpy matplotlib
+```
 
 Then, make sure you open `project.ipynb` in either Jupyter Lab, Jupyter Notebook, or in VSCode with Microsoft's Jupyter Notebook extensions.
 
