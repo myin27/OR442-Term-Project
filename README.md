@@ -20,12 +20,14 @@ We decided to use a Jupyter Notebook in order to let us visualize our distributi
 
 ## Setup & Installation
 
+Ensure that you have Python installed. If not, you can visit the official website for Python, [https://www.python.org/downloads/](https://www.python.org/downloads/), to download the latest version of Python for your system.
+
 Run the following command on your terminal to install dependences.
 
 ```sh
 pip install numpy matplotlib
 ```
 
-Then, make sure you open `project.ipynb` in either Jupyter Lab, Jupyter Notebook, or in VSCode with Microsoft's Jupyter Notebook extensions.
+Then, make sure you open `project.ipynb` in either Jupyter Lab, Jupyter Notebook, or in VSCode with Microsoft's Jupyter Notebook extensions so you can properly view the Jupyter Notebook. If you open `project.ipynb` using a basic text editor (Notepad++, BBEdit, VIM), you will only be able to see the underlying JSON data since Jupyter Notebooks are simply rendered JSON files.
 
-After opening the file, hit "Run all" in order to run all the cells to get the appropriate outputs.
+After opening the file, hit "Run all" in order to run all the cells to get the appropriate outputs. If prompted to pick a kernel, pick the version of Python you have downloaded.
