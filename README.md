@@ -20,9 +20,9 @@ We decided to use a Jupyter Notebook in order to let us visualize our distributi
 
 ## Setup & Installation
 
-Ensure that you have Python installed. If not, you can visit the official website for Python, [https://www.python.org/downloads/](https://www.python.org/downloads/), to download the latest version of Python for your system.
+Ensure that you have Python installed. If not, you can visit the official website for Python, [https://www.python.org/downloads](https://www.python.org/downloads), to download the latest version of Python for your system.
 
-Run the following command on your terminal to install dependences.
+Run the following command on your terminal to install dependencies.
 
 ```sh
 pip install numpy matplotlib
