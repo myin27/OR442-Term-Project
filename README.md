@@ -7,7 +7,7 @@ To view our Jupyter Notebook, please click [here](/project.ipynb).
 
 ## Background
 
-For our final project for stochastic models class, groups of up to four people were tasked with using Monte-Carlo simulations to figure out how to best invest \$1,000,000 in the folowing four mutual funds.
+For our final project for stochastic models class, groups of up to four people were tasked with using Monte-Carlo simulations to figure out how to best invest \$1,000,000 in the following four mutual funds.
 
 - Fund A: $Unif[-40\\%, 60\\%]$
 - Fund B: $Unif[-10\\%, 24\\%]$
