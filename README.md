@@ -1,9 +1,12 @@
 # OR442-Term-Project
 
+Group members: Thanh Nguyen, Madison Yin, Leena Koussa, Rose Alvarado
+
 For setup instructions, please click [here](#setup--installation).
 
-To view our Jupyter Notebook, please click [here](/project.ipynb).
+To view our Jupyter Notebook, please click [here](./project.ipynb).
 
+You can also view the HTML file for a static screenshot of our final notebook [here](./project.html).
 
 ## Background
 
